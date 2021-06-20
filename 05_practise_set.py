@@ -1,0 +1,20 @@
+#a =input("enter a number: ")
+#a= int(a)
+#b= input("enter your next number: ")
+#= int(b)
+#print("the sum is: ",a+b)
+#a=int(input("enter a number: "))
+#b=int(input("enter another number: "))
+#c=(a%b)
+#print("the remainder is: ",c)
+#a=input("enter a number:  ")
+#print(type(a))
+#bool1=34
+#bool2=80
+#print("value is :",bool1 and bool2)
+#print("value is:",bool1 or bool2)
+#print("the value is:",not bool1)
+a = int(input("enter an number: "))
+b= int(input("enter another number: "))
+avg=(a+b)/2
+print("the average is: ",avg)
