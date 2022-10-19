@@ -1,0 +1,10 @@
+def printDetails(id,name="NA",price="NA"):
+    print(f"Id is {id}")
+    print(f"name is {name}")
+    print(f"price is {price}")
+printDetails(101,"abc",100)
+print()
+printDetails(102)
+print()
+printDetails(106,332)
+print()
